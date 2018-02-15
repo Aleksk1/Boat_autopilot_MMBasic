@@ -1,5 +1,6 @@
 # Boat_autopilot_MMBasic
 
-## 1
+## Видео работы сервомеханики привода румпеля
 
-[![Watch the video](https://img.youtube.com/vi/hEnH9IPkSz0/0.jpg)](https://youtu.be/hEnH9IPkSz0)
+[![Watch the video](https://img.youtube.com/vi/i9sFZcr0xS0/0.jpg)](https://youtu.be/i9sFZcr0xS0)
+
